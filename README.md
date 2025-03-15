@@ -1,16 +1,19 @@
-# news_app
+## 📰 News App
+A sleek and modern news app built using Flutter with News API integration, providing real-time news updates from various sources.
 
-A new Flutter project.
+## 🚀 Features  
+✅ Fetches news articles from **News API**  
+✅ Displays news based on different **categories** (Business, Technology, Sports, etc.)  
+✅ Shows detailed news content with **source** and **author**  
+✅ Supports **dark and light mode**  
+✅ Optimized for **smooth scrolling and performance**  
 
-## Getting Started
+## 🚧 How It Works  
+- The app fetches data from **News API** using **HTTP** requests.  
+- **CachedNetworkImage** is used to load images efficiently.  
+- Categories are managed dynamically through **tab navigation**.  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Project Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image alt](https://github.com/uditiparmar/News-App/blob/1b029f452f908e8dad455f4a92e30b26e6f44bac/e.png)
